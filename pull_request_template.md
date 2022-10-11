@@ -1,4 +1,4 @@
 ### Gatekeeper steps
-* [ ] do something
-* [ ] do something else
-  * [ ] Nested task
+- [ ] do something
+- [ ] do something else
+  - [ ] Nested task
